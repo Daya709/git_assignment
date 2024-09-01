@@ -18,4 +18,4 @@ f. What does git diff do?
 g. What is the main branch?
 his is nothing but the default branch of the project.
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
-We should not push it directly to the main branches if we are sure what the code does, only the tested and verified code should be posted to the main branch.
+We should not push it directly to the main branches if we are sure what the code does, only the tested and verified code should be posted to the main branch
