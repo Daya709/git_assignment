@@ -1,5 +1,3 @@
-# Git Assignment - <Your GitHub Username>
-   # Git Assignment - Daya709
 
    # Git Assignment - Daya709
 
